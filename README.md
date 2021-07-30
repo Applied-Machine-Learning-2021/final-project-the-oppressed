@@ -11,7 +11,7 @@ link to each members respective GitHub profile
 Developed by: 
 - [member1](https://github.com/trinitykcolbert) - `UNIVERSITY OF ARKANSAS`
 - [member2](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member3](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
+- [Marvin Violantes](https://github.com/marvin-violantes) - `UNIVERSITY OF ARKANSAS` 
 - [member4](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
 
 ## Description
