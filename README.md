@@ -23,7 +23,7 @@ Our project is about to analyze a
 Give details on how to install fork and install your project. You can get all of the python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.
 -->
 1. Fork this repo
-2. Follow [this link](https://github.com/ahmetozlu/vehicle_counting_tensorflow) to the repo of the original API
+2. Follow [this link](https://drive.google.com/drive/folders/1gh4yj9sdASzqTsoTA0ot_uAaBh4k2nAs?usp=sharing) to the repo of the original API
 3. Download the repo
 4. Create a new folder in your Google Drive
 5. Add both the repo and your desired input video into that new folder
