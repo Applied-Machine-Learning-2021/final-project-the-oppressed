@@ -9,7 +9,7 @@ List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-- [member1](https://github.com/trinitykcolbert) - `UNIVERSITY OF ARKANSAS`
+- [Trinity Colbert](https://github.com/trinitykcolbert) - `UNIVERSITY OF ARKANSAS`
 - [Giancarlos Cabrera](https://github.com/giancab25) - `NYU` 
 - [Marvin Violantes](https://github.com/marvin-violantes) - `UNIVERSITY OF ARKANSAS`
 
