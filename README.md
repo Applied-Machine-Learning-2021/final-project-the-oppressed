@@ -19,7 +19,7 @@ Developed by:
 
 
 ## Description
-This project will create a vehicle detection classification on an input video of your choice. Orignially designed for the University of Arkansas' campus, where the system can  detect the car type and car color that coincides with the car description on the car permit application. However we hav provided code that can easily be modified to your needs.
+This project will create a vehicle detection classification on an input video of your choice. Orignially designed for the University of Arkansas' campus, where the system can  detect the car type and car color that coincides with the car description on the car permit application. However we have provided code that can easily be modified to your needs.
 
 
 <!--
