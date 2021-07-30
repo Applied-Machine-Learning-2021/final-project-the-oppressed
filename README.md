@@ -10,15 +10,14 @@ link to each members respective GitHub profile
 -->
 Developed by: 
 - [member1](https://github.com/trinitykcolbert) - `UNIVERSITY OF ARKANSAS`
-- [member2](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [Marvin Violantes](https://github.com/marvin-violantes) - `UNIVERSITY OF ARKANSAS` 
-- [member4](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
+- [Giancarlos Cabrera](https://github.com/giancab25) - `NYU` 
+- [Marvin Violantes](https://github.com/marvin-violantes) - `UNIVERSITY OF ARKANSAS`
 
 ## Description
 <!--
 Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations.
 -->
-
+Our project is about to analyze a 
 ## Usage instructions
 <!--
 Give details on how to install fork and install your project. You can get all of the python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.
