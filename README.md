@@ -1,7 +1,7 @@
 <!--
 Name of your teams' final project
 -->
-# final-project
+# Vehicle Detection and Classification- final project
 ## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `UNIVERSITY OF ARKANSAS`
 
 <!--
@@ -23,6 +23,15 @@ Our project is about to analyze a
 Give details on how to install fork and install your project. You can get all of the python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.
 -->
 1. Fork this repo
-2. Change directories into your project
-3. On the command line, type `pip3 install requirements.txt`
-4. ....
+2. Follow [this link](https://github.com/ahmetozlu/vehicle_counting_tensorflow) to the repo of the original API
+3. Download the repo
+4. Create a new folder in your Google Drive
+5. Add both the repo and your desired input video into that new folder
+6. Open the Main Code file 
+7. Mount your Google Drive to colab
+8. Locate the folder your created in the file section on the left 
+9. Open the 'vehicle_detection_main.py' file
+10. Modify line 45 to the name of your input video
+11. Run all of the blocks of code
+12. Open the output video file on the left
+13. Enjoy your vehicle detection and classifier!!
