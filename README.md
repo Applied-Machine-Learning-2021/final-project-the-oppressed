@@ -15,7 +15,7 @@ Developed by:
 
 ## Description
 This project will create a vehicle detection classification on an input video of your choice. Orignially designed for the University of Arkansas' campus, where the system can  detect the car type and car color that coincides with the car description on the car permit application. However we hav provided code that can easily be modified to your needs.
-![image](https://user-images.githubusercontent.com/85461096/127699517-6e5b9b30-d343-47b6-b6fe-bc542f4a594f.png)
+
 
 <!--
 Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations.
@@ -40,4 +40,4 @@ Give details on how to install fork and install your project. You can get all of
 13. Enjoy your vehicle detection and classifier!!
 
 
-![image]()
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjimgorzelany%2F2019%2F07%2F23%2Fhere-are-the-coolest-new-cars-for-2020%2F&psig=AOvVaw2yEWy-n-uRAlfeLNiO0Tsg&ust=1627758320258000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiOv7a-i_ICFQAAAAAdAAAAABAD)
