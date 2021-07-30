@@ -1,6 +1,3 @@
-![image](https://user-images.githubusercontent.com/85461096/127700510-c2f59841-301d-48e6-b2a0-aa2c43935129.png)
-
-
 
 <!--
 Name of your teams' final project
@@ -16,6 +13,10 @@ Developed by:
 - [Trinity Colbert](https://github.com/trinitykcolbert) - `UNIVERSITY OF ARKANSAS`
 - [Giancarlos Cabrera](https://github.com/giancab25) - `NYU` 
 - [Marvin Violantes](https://github.com/marvin-violantes) - `UNIVERSITY OF ARKANSAS`
+
+
+![image](https://user-images.githubusercontent.com/85461096/127700510-c2f59841-301d-48e6-b2a0-aa2c43935129.png)
+
 
 ## Description
 This project will create a vehicle detection classification on an input video of your choice. Orignially designed for the University of Arkansas' campus, where the system can  detect the car type and car color that coincides with the car description on the car permit application. However we hav provided code that can easily be modified to your needs.
